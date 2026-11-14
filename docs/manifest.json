@@ -1,0 +1,11 @@
+{
+  "name": "Premium Chat",
+  "short_name": "Premium Chat",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#070707",
+  "theme_color": "#9A6CFF",
+  "description": "Premium AI chat interface",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
